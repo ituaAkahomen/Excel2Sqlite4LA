@@ -1,0 +1,6 @@
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\obj\x86\Release\LAExcel2Sqlite.csproj.ResolveComReference.cache
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\bin\Release\LAExcel2Sqlite.exe
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\bin\Release\LAExcel2Sqlite.pdb
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\obj\x86\Release\LAExcel2Sqlite.exe
+C:\Users\Akahomen Itua\documents\visual studio 2010\Projects\Excel2Sqlite4LA\LAExcel2Sqlite\obj\x86\Release\LAExcel2Sqlite.pdb
